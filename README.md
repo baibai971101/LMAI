@@ -47,7 +47,7 @@ web部署太简单了 跟着视频来就行
 
 ` web 演示`
 
-https://anchwngb.cn
+https://ccai.site
 
 ` Web 备用站点`
 
